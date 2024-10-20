@@ -15,6 +15,7 @@ public class App {
         luku2 = 4;
 
 System.out.println("Ohjelman tekija: " + tekija);
+System.out.println(luku1);
 
 
     }
