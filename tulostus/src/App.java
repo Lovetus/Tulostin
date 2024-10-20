@@ -9,7 +9,13 @@ public class App {
         String tekija;
         tekija = "Lotta";
 
+        int luku1;
+        int luku2;
+        luku1 = 3;
+        luku2 = 4;
+
 System.out.println("Ohjelman tekija: " + tekija);
+
 
     }
 }
